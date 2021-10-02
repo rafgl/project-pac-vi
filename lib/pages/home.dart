@@ -45,11 +45,6 @@ class HomePageState extends State<HomePage> {
                     ),
                   ],
                 ),
-                IconButton(
-                  onPressed: () {},
-                  alignment: Alignment.topCenter,
-                  icon: Image.asset("images/notification.png", width: 24),
-                )
               ],
             ),
           ),
